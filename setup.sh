@@ -134,8 +134,8 @@ configure_username(){
 
 
 
-update_mirrorlist
-create_partitions
+#update_mirrorlist
+#create_partitions
 format_partitions
 mount_partitions
 install_baseSystem
