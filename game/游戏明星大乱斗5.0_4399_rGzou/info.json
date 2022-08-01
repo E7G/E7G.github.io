@@ -1,0 +1,17 @@
+{
+  "title": "游戏明星大乱斗5.0",
+  "category": "动作",
+  "type": "flash",
+  "fromSite": "4399",
+  "online": {
+    "originPage": "http://www.4399.com/flash/143365.htm",
+    "truePage": "http://sda.4399.com/4399swf/upload_swf/ftp14/yzg/20140909/1/game.htm",
+    "binUrl": "http://sda.4399.com/4399swf/upload_swf/ftp14/yzg/20140909/1/game.swf",
+    "icon": "http://imga1.5054399.com/upload_pic/2016/2/24/4399_20521991715.jpg"
+  },
+  "local": {
+    "binFile": "game.swf",
+    "folder": "游戏明星大乱斗5.0_4399_rGzou",
+    "icon": "icon.jpg"
+  }
+}

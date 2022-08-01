@@ -1,0 +1,17 @@
+{
+  "title": "二战前线2中文变态版",
+  "category": "战争",
+  "type": "flash",
+  "fromSite": "game773",
+  "online": {
+    "originPage": "https://www.game773.com/play/4056.html",
+    "truePage": "http://flash.game773.com/fl_zz/20100807/4056/hejinzw/game.swf",
+    "binUrl": "http://flash.game773.com/fl_zz/20100807/4056/hejinzw/game.swf",
+    "icon": "https://img.game773.com/fl_zz/20100807/4056m.jpg"
+  },
+  "local": {
+    "binFile": "game.swf",
+    "folder": "二战前线2中文变态版_game773_DdszH",
+    "icon": "icon.jpg"
+  }
+}
